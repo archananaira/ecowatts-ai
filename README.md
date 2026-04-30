@@ -6,11 +6,11 @@ An AI-powered electricity bill analyzer that provides insights into energy consu
 
 ## Features
 
-- 📄 Upload electricity bill image  
-- 🤖 AI-based analysis  
-- 📊 Usage trend visualization  
-- 💡 Smart energy-saving suggestions  
-- 📈 Historical comparison  
+-  Upload electricity bill image  
+-  AI-based analysis  
+-  Usage trend visualization  
+-  Smart energy-saving suggestions  
+-  Historical comparison  
 
 
 ##  Tech Stack
@@ -20,7 +20,7 @@ An AI-powered electricity bill analyzer that provides insights into energy consu
 - Google Gemini API  
 - Recharts  
 
-## 📸 Screenshots
+##  Screenshots
 ![upload](upload_your_bill.png)
 
 
@@ -28,7 +28,7 @@ An AI-powered electricity bill analyzer that provides insights into energy consu
 
 ![Comparison](billcomparison.png)
 
-![trend_analysis](trendanalysi.png)
+![trend_analysis](trendanalysis.png)
 
 ![suggestions](suggestions.png)
 

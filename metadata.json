@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EcoWatts AI",
+  "description": "An AI-powered application that analyzes electricity bills to provide personalized energy-saving advice and historical trend analysis. Users can upload bill images to track consumption and receive optimization suggestions.",
+  "requestFramePermissions": []
+}

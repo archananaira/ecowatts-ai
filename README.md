@@ -1,10 +1,10 @@
-<# ⚡ EcoWatts AI
+<#  EcoWatts AI
 
 An AI-powered electricity bill analyzer that provides insights into energy consumption, trends, and cost-saving suggestions.
 
 
 
-## 🚀 Features
+## Features
 
 - 📄 Upload electricity bill image  
 - 🤖 AI-based analysis  
@@ -13,8 +13,7 @@ An AI-powered electricity bill analyzer that provides insights into energy consu
 - 📈 Historical comparison  
 
 
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React + Vite  
 - TypeScript  
@@ -29,12 +28,12 @@ An AI-powered electricity bill analyzer that provides insights into energy consu
 
 ![Comparison](billcomparison.png)
 
-![trend_analysis](trend_analysi.png)
+![trend_analysis](trendanalysi.png)
 
 ![suggestions](suggestions.png)
 
 
-## ⚠️ Setup
+##  Setup
 
 1. Install dependencies  
    npm install  
@@ -47,7 +46,7 @@ An AI-powered electricity bill analyzer that provides insights into energy consu
 
 
 
-## 👥 Team Project
+##  Team Project
 
 This project was developed as part of a team.
 
